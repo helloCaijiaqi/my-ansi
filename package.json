@@ -1,0 +1,14 @@
+{
+  "name": "wcolor",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "author": "Cjq <>",
+  "repository": { "type": "git", "url": "git://github.com//wcolor.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
